@@ -1,1 +1,1 @@
-Task 0. The task, Where am I task?
+Shell Basics commands and execution.
